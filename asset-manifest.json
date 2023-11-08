@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motivation-letter/static/css/main.74e838fa.css",
+    "main.js": "/motivation-letter/static/js/main.9cee520a.js",
+    "static/js/787.cbf00aa5.chunk.js": "/motivation-letter/static/js/787.cbf00aa5.chunk.js",
+    "index.html": "/motivation-letter/index.html",
+    "main.74e838fa.css.map": "/motivation-letter/static/css/main.74e838fa.css.map",
+    "main.9cee520a.js.map": "/motivation-letter/static/js/main.9cee520a.js.map",
+    "787.cbf00aa5.chunk.js.map": "/motivation-letter/static/js/787.cbf00aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e838fa.css",
+    "static/js/main.9cee520a.js"
+  ]
+}
