@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Agbalumo:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.card-body {
+  padding: 26px;
+}
+
+*.green {
+  color: #A2C579 !important;
+}
+
+
+* {
+  transition: 0.2s all;
+}
+
+h1 {
+
+  font-size: 36px;
+  margin-bottom: 26px;
+}
+
+h4 {
+  font-size: 30px;
+  margin-bottom: 16px;
+}
+
+
+p {
+  font-size: 20px;
+  margin-bottom: 26px;
+}
+
+b {
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+}
+
+code {
+  font-weight: 700;
+  font-family: 'Josefin Sans', monospace;
+  cursor: pointer;
+}
+
+
+em {
+  font-weight: 700;
+  font-family: 'Agbalumo', sans-serif;
+  font-style: normal;
+  cursor: pointer;
+}
+
+em:hover,
+code:hover,
+b:hover {
+  color: #0174BE;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+a {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #39A7FF;
+}
+
+a:hover {
+  color: #164863;
+}
+
